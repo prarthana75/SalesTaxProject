@@ -77,7 +77,7 @@ Assumption:
 
 Example how to run program with multiple inputs from files.
 
-c:\opt>java -jar salestax.jar in1.txt in2.txt in3.txt
+c:\javatest>java -jar salestaxproject.jar in1.txt in2.txt in3.txt
 
 Order input:
 1 book at 12.49
